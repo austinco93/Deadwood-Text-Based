@@ -1,0 +1,12 @@
+MainStreet 3 1 Railroad+Worker "I’m+a+steel-drivin’+man!" 2 Falls+off+Roof "Aaaaiiiigggghh!" 2 Woman+in+Black+Dress "Well,+I’ll+be!" 4 Mayor+McGinty "People+of+Deadwood!"
+Saloon 2 2 Woman+in+Red+Dress "Come+up+and+see+me!" 1 Reluctant+Farmer "I+ain’t+so+sure+about+that!"
+Trailers
+CastingOffice
+Ranch 2 3 Man+Under+Horse A+little+help+here!" 2 Saucy+Fred "That’s+what+she+said!" 1 Shot+in+Leg "Ow!+Me+Leg!"
+SecretHideOut 3 1 Clumsy+Pit+Fighter "Hit+me!" 2 Thug+with+Knife "Meet+Suzy,+my+murderin’+knife." 3 Dangerous+Tom "There’s+two+ways+we+can+do+this...." 4 Penny,+who+is+Lost "Oh,+woe!+For+I+am+lost!"
+Bank 1 3 Flustered+Teller "Would+you+like+a+large+bill,+sir?" 2 Suspicious+Gentleman "Can+you+be+more+specific?"
+Hotel 3 1 Faro+Player "Hit+me!" 1 Sleeping+Drunkard "Zzzzzz...+Whiskey!" 2 Falls+from+Balcony "Arrrgghh!!" 3 Australian+Bartender "What’ll+it+be,+mate?"
+Church 2 1 Dead+Man "...." 2 Crying+Woman "Oh,+the+humanity!"
+TrainStation 3 1 Crusty+Prospector "Aww,+peaches!" 1 Dragged+by+Train "Omgeezers!" 2 Preacher+with+Bag "The+Lord+will+provide." 4 Cyrus+the+Gunfighter "Git+to+fightin’+or+git+away!"
+Jail 1 2 Prisoner+in+Cell "Zzzzzzz...+Whiskey!" 3 Feller+in+Irons "Ah+kilt+the+wrong+man!"
+GeneralStore 2 1 Man+in+Overalls "Looks+like+a+storm’s+comin’+in." 3 Mister+Keach "Howdy,+stranger."
